@@ -556,7 +556,7 @@ hotfixes ←─── corrigem a main e a develop simultaneamente
 
 ### 🎯 Objetivo
 
-Ensinar como utilizar o **Gitflow** em um projeto real. Os alunos vão:
+Utilizando o **Gitflow** em um projeto real. 
 
 * Criar um repositório local.
 * Subir o repositório para o GitHub.
